@@ -6,4 +6,4 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 
 
-A company dedicated to making cool, high-performance open-source software for everyone.
+A company dedicated to making high-performance open-source software for everyone.
