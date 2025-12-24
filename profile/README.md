@@ -5,5 +5,4 @@
 ![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 
-
-A company dedicated to making high-performance open-source software for everyone.
+High-performance open-source software for everyone.
